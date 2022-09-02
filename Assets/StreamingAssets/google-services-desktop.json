@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868265458712",
+    "firebase_url": "https://head-soccer-7a275.firebaseio.com",
+    "project_id": "head-soccer-7a275",
+    "storage_bucket": "head-soccer-7a275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868265458712:android:58e8c94804be643561176d",
+        "android_client_info": {
+          "package_name": "com.headsoccer.headball.footballgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868265458712-12utr60msm172uqqmsrcl91qh159vkp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzecmzHY2ive99WmheHohmfNhK1WG23c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868265458712-12utr60msm172uqqmsrcl91qh159vkp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
